@@ -14,7 +14,7 @@ if (len1 == 5)
 {
     if (len[0] == len[4] && len[1] == len[3])
     {
-        Console.WriteLine("Число: "+number+" - алиндром");
+        Console.WriteLine("Число: "+number+" - палиндром");
     }
     else
     {
