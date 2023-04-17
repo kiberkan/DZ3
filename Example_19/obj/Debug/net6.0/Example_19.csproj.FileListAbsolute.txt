@@ -1,0 +1,15 @@
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_19\bin\Debug\net6.0\Example_19.exe
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_19\bin\Debug\net6.0\Example_19.deps.json
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_19\bin\Debug\net6.0\Example_19.runtimeconfig.json
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_19\bin\Debug\net6.0\Example_19.dll
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_19\bin\Debug\net6.0\Example_19.pdb
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_19\obj\Debug\net6.0\Example_19.csproj.AssemblyReference.cache
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_19\obj\Debug\net6.0\Example_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_19\obj\Debug\net6.0\Example_19.AssemblyInfoInputs.cache
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_19\obj\Debug\net6.0\Example_19.AssemblyInfo.cs
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_19\obj\Debug\net6.0\Example_19.csproj.CoreCompileInputs.cache
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_19\obj\Debug\net6.0\Example_19.dll
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_19\obj\Debug\net6.0\refint\Example_19.dll
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_19\obj\Debug\net6.0\Example_19.pdb
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_19\obj\Debug\net6.0\Example_19.genruntimeconfig.cache
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_19\obj\Debug\net6.0\ref\Example_19.dll
