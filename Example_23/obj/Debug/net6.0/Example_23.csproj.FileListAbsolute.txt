@@ -1,0 +1,15 @@
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_23\obj\Debug\net6.0\Example_23.csproj.AssemblyReference.cache
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_23\obj\Debug\net6.0\Example_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_23\obj\Debug\net6.0\Example_23.AssemblyInfoInputs.cache
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_23\obj\Debug\net6.0\Example_23.AssemblyInfo.cs
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_23\obj\Debug\net6.0\Example_23.csproj.CoreCompileInputs.cache
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_23\bin\Debug\net6.0\Example_23.exe
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_23\bin\Debug\net6.0\Example_23.deps.json
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_23\bin\Debug\net6.0\Example_23.runtimeconfig.json
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_23\bin\Debug\net6.0\Example_23.dll
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_23\bin\Debug\net6.0\Example_23.pdb
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_23\obj\Debug\net6.0\Example_23.dll
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_23\obj\Debug\net6.0\refint\Example_23.dll
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_23\obj\Debug\net6.0\Example_23.pdb
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_23\obj\Debug\net6.0\Example_23.genruntimeconfig.cache
+C:\Users\kiber\Desktop\Учеба\DZ3\Example_23\obj\Debug\net6.0\ref\Example_23.dll
